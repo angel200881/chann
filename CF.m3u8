@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,MX: CASA DE LOS FAMOSOS Opc.1
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/233780.ts
+#EXTINF:-1,MX: CASA DE LOS FAMOSOS Opc.2
+http://magmas5.com:8000/live/ajstory1/UcZy6x84HL/233781.ts
 #EXTINF:-1,Casa de los Famosos 24-7
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/550608
 #EXTINF:-1,La Casa (La Casa De Los Famosos 3)
@@ -7,20 +11,6 @@ http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469312
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469313
 #EXTINF:-1,La Casa (La Casa De Los Famosos 5)
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469314
-#EXTINF:-1,Casa de los Famosos Multicámaras
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469324
-#EXTINF:-1,Casa de los Famosos 24-7
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469325
-#EXTINF:-1,Casa de los Famosos acceso total
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469326
-#EXTINF:-1,Casa de los Famosos Baño
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469327
-#EXTINF:-1,Casa de los Famosos Cocina
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469328
-#EXTINF:-1,Casa de los Famosos Habitación 1
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469329
-#EXTINF:-1,Casa de los Famosos Habitación 2
-http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/469330
 #EXTINF:-1,LA CASA DE LOS FAMOSOS MEX OP2
 http://novared.pro:80/play/CzTAHLkrs8PEq1wdI3_RbI4rBb8b-UQ9say0rO9u9SjoOJedrItXxTqzJplak8Wd/ts
 #EXTINF:-1,LA CASA DE LOS FAMOSOS MEX OP1
