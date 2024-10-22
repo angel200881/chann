@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 ,Goltv 🇪🇨 🟡
+http://redima.pro:8880/VALLE1402/VALLE1402/570
+#EXTINF:-1 group-title="MUNDIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",TELEAMAZONAS 2
+http://redima.pro:8880/VALLE1402/VALLE1402/682
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://www.crhoy.com/wp-content/uploads/2020/01/futv.png",FUTV HD CR
+http://redima.pro:8880/VALLE1402/VALLE1402/587
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP
+http://redima.pro:8880/VALLE1402/VALLE1402/333
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBO.mx.png",HBO
+http://redima.pro:8880/VALLE1402/VALLE1402/334
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBO2.mx.png",HBO 2
+http://redima.pro:8880/VALLE1402/VALLE1402/335
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png",HBO FAMILY
+http://redima.pro:8880/VALLE1402/VALLE1402/336
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBO.mx.png",HBO HD
+http://redima.pro:8880/VALLE1402/VALLE1402/337
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png",PARAMOUNT
+http://redima.pro:8880/VALLE1402/VALLE1402/338
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Golden_2_2007-2010.png/revision/latest/scale-to-width-down/250?cb=20191215195803&path-prefix=es",GOLDE 2
+http://redima.pro:8880/VALLE1402/VALLE1402/339
+#EXTINF:-1 group-title="CINE" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",STAR CHANNEL
+http://redima.pro:8880/VALLE1402/VALLE1402/343
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png",AZ click HD
+http://redima.pro:8880/VALLE1402/VALLE1402/350
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logotipo_de_Venevisi%C3%B3n.svg",VENEVISION
+http://redima.pro:8880/VALLE1402/VALLE1402/355
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
+http://redima.pro:8880/VALLE1402/VALLE1402/356
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png",CANAL DEL FUTBOL
+http://redima.pro:8880/VALLE1402/VALLE1402/311
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png",ESPN 5
+http://redima.pro:8880/VALLE1402/VALLE1402/326
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png",ESPN 7
+http://redima.pro:8880/VALLE1402/VALLE1402/327
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png",ESPN 2
+http://redima.pro:8880/VALLE1402/VALLE1402/328
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png",ESPN6
+http://redima.pro:8880/VALLE1402/VALLE1402/329
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png",ESPN 6
+http://redima.pro:8880/VALLE1402/VALLE1402/330
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png",Sony Movies HD
+http://redima.pro:8880/VALLE1402/VALLE1402/978
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & arts HD
+http://redima.pro:8880/VALLE1402/VALLE1402/1036
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.brandbucket.com/sites/default/files/logo_uploads/255208/large_universalreality.png",UNIVERSAL REALITY
+http://redima.pro:8880/VALLE1402/VALLE1402/1035
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s",UNIVERSAL COMEDY
+http://redima.pro:8880/VALLE1402/VALLE1402/1032
+#EXTINF:-1 group-title="VARIOS",Comedy Central HD
+http://redima.pro:8880/VALLE1402/VALLE1402/994
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN HD
+http://redima.pro:8880/VALLE1402/VALLE1402/1003
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png",ESPN7
+http://redima.pro:8880/VALLE1402/VALLE1402/1005
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Canal_10_%28El_Salvador%29_2019.png/320px-Canal_10_%28El_Salvador%29_2019.png",Canal 10 - ESA
+http://redima.pro:8880/VALLE1402/VALLE1402/986
+#EXTINF:-1 group-title="CINE" tvg-logo="https://4.bp.blogspot.com/-ooVCWd-F68M/U0btGor7uMI/AAAAAAAAKIQ/HD9bKqP8UBU/s1600/CartoonHD-Check-it.jpg",CARTOON NT HD
+http://redima.pro:8880/VALLE1402/VALLE1402/984
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png",Canal 10 HD - ESA
+http://redima.pro:8880/VALLE1402/VALLE1402/988
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png",Canal 4 HD ESA
+http://redima.pro:8880/VALLE1402/VALLE1402/989
+#EXTINF:-1 group-title="Terror" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ZA2oBaGNk3A4xljFPz0bt4SOGQ.jpg",Terror en la niebla (2005)
+http://redima.pro:8880/movie/VALLE1402/VALLE1402/806.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/v36aZwxTsPAvqsssLPVno3VFvg5.jpg",The Mandalorian S01 E08
+http://redima.pro:8880/series/VALLE1402/VALLE1402/838.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/kAuS7h8qVLokHcKpSwZMum4PhC2.jpg",The Mandalorian S02 E01
+http://redima.pro:8880/series/VALLE1402/VALLE1402/840.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/gnZOQajf33N3BzRouIZU3NM45TY.jpg",The Mandalorian S02 E02
+http://redima.pro:8880/series/VALLE1402/VALLE1402/841.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/yMETKVeybSp9LjiWDBq1fPF1oWh.jpg",The Mandalorian S02 E03
+http://redima.pro:8880/series/VALLE1402/VALLE1402/842.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/42QoiVzHnBKAxHT4DpYIKkRTG3N.jpg",The Mandalorian S02 E04
+http://redima.pro:8880/series/VALLE1402/VALLE1402/843.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/hRqJbGFdU2OpjcAGymQHN0WlMdC.jpg",The Mandalorian S02 E05
+http://redima.pro:8880/series/VALLE1402/VALLE1402/844.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/bTzhzNSVFugIyc8pHutmLCJdgv5.jpg",The Mandalorian S02 E06
+http://redima.pro:8880/series/VALLE1402/VALLE1402/845.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/non7AnwMaloVU0OtenLqKyq8Zg3.jpg",The Mandalorian S02 E07
+http://redima.pro:8880/series/VALLE1402/VALLE1402/846.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/n6oeOfj8jMPbXZ2E2QTVXYt5cvO.jpg",The Mandalorian S02 E08
+http://redima.pro:8880/series/VALLE1402/VALLE1402/839.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/8XeuJls7qlTsPiDAK0qarvBrmb2.jpg",The Mandalorian S03 E01
+http://redima.pro:8880/series/VALLE1402/VALLE1402/958.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/yR3pIsArgHpyeGScXHKqj8hGRBo.jpg",The Mandalorian S03 E02
+http://redima.pro:8880/series/VALLE1402/VALLE1402/959.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/zgj0iZUYNIZh0NbPVdNEdTacfwv.jpg",The Mandalorian S03 E03
+http://redima.pro:8880/series/VALLE1402/VALLE1402/960.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/jtH7v1yusbC0Lj3jAT8W2aEbbW3.jpg",The Mandalorian S03 E04
+http://redima.pro:8880/series/VALLE1402/VALLE1402/961.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/y5DDTs4CqnKwWO74BKUGdP2jdGn.jpg",The Mandalorian S03 E05
+http://redima.pro:8880/series/VALLE1402/VALLE1402/962.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/tIbTlMWkVBFUeUT76FXWb6jzteW.jpg",The Mandalorian S03 E06
+http://redima.pro:8880/series/VALLE1402/VALLE1402/963.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/38blBPXRWevBgwa4XPVZkc2mMCO.jpg",The Mandalorian S03 E07
+http://redima.pro:8880/series/VALLE1402/VALLE1402/964.mp4
+#EXTINF:-1 group-title="DISNEY +" tvg-logo="https://image.tmdb.org/t/p/w300/blG9C2voVSQlC8M1JkJZgo7BvCL.jpg",The Mandalorian S03 E08
+http://redima.pro:8880/series/VALLE1402/VALLE1402/965.mp4
+#EXTINF:-1 group-title="AMAZON" tvg-logo="https://image.tmdb.org/t/p/w300/kUZDYOEtv6O2Hg4ObQJi0WwkblE.jpg",Three Pines S01 E01
+http://redima.pro:8880/series/VALLE1402/VALLE1402/813.mp4
+#EXTINF:-1 group-title="AMAZON" tvg-logo="https://image.tmdb.org/t/p/w300/8uABlge3Bwl7FNnYsgIvGWv8AtF.jpg",Three Pines S01 E02
+http://redima.pro:8880/series/VALLE1402/VALLE1402/814.mp4
