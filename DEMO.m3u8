@@ -1,0 +1,257 @@
+#EXTM3U
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",HBO POP
+http://redima.pro:8880/stalin2024/stalin2024/333
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBO.mx.png",HBO
+http://redima.pro:8880/stalin2024/stalin2024/334
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBO2.mx.png",HBO 2
+http://redima.pro:8880/stalin2024/stalin2024/335
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png",HBO FAMILY
+http://redima.pro:8880/stalin2024/stalin2024/336
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/HBO.mx.png",HBO HD
+http://redima.pro:8880/stalin2024/stalin2024/337
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.epg.best/mx/ParamountChannel.mx.png",PARAMOUNT
+http://redima.pro:8880/stalin2024/stalin2024/338
+#EXTINF:-1 group-title="CINE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Golden_2_2007-2010.png/revision/latest/scale-to-width-down/250?cb=20191215195803&path-prefix=es",GOLDE 2
+http://redima.pro:8880/stalin2024/stalin2024/339
+#EXTINF:-1 group-title="CINE" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",STAR CHANNEL
+http://redima.pro:8880/stalin2024/stalin2024/343
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png",AZ click HD
+http://redima.pro:8880/stalin2024/stalin2024/350
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logotipo_de_Venevisi%C3%B3n.svg",VENEVISION
+http://redima.pro:8880/stalin2024/stalin2024/355
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",SONY
+http://redima.pro:8880/stalin2024/stalin2024/356
+#EXTINF:-1 group-title="CINE" tvg-logo="https://w7.pngwing.com/pngs/52/310/png-transparent-dream-theater-hd-logo-thumbnail.png",DISC THEATHER HD
+http://redima.pro:8880/stalin2024/stalin2024/359
+#EXTINF:-1 group-title="CINE" tvg-logo="https://uspto.report/TM/90480911/mark.png",STAR LIFE
+http://redima.pro:8880/stalin2024/stalin2024/360
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",TNT SERIES
+http://redima.pro:8880/stalin2024/stalin2024/363
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png",TNT
+http://redima.pro:8880/stalin2024/stalin2024/364
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png",FXM
+http://redima.pro:8880/stalin2024/stalin2024/366
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/1280px-FXM_Logo.svg.png",FXM
+http://redima.pro:8880/stalin2024/stalin2024/367
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.ses.com/sites/default/files/inline-images/Asset%201-100.jpg",MORVIDO TV
+http://redima.pro:8880/stalin2024/stalin2024/371
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/1200px-Logo_Golden_TV.svg.png",GOLDEN
+http://redima.pro:8880/stalin2024/stalin2024/372
+#EXTINF:-1 group-title="CINE" tvg-logo="https://w7.pngwing.com/pngs/949/572/png-transparent-eurochannel-television-channel-television-show-euro-channel-channel-television-blue-text.png",Europa HD
+http://redima.pro:8880/stalin2024/stalin2024/375
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/DPel%C3%ADcula_2021.svg/250px-DPel%C3%ADcula_2021.svg.png",DPELICULAS
+http://redima.pro:8880/stalin2024/stalin2024/376
+#EXTINF:-1 group-title="CINE" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMcAAAD9CAMAAAA/OpM/AAAAkFBMVEX////0AH7zAHf0AHzzAHnzAHb0AHLzAHT+ttH/9/v9rsz7oMT9qcn5JYj7dav3SpX4OpH/wtn/6fL/9Pn3V5z5YKD/5vD/3On/9fn9lb7/zeD/7fT/1eX/+/3/yN3/2+j7irf8gbL7ZaP+udP4L4v7c6r6RpT+psj7bKf7f7H8msD6VJv7h7X0AG35OI/5K4l2cWfzAAAPy0lEQVR4nO1d6XqyvBZtyORsFYdPRYsTarW+9393JwmIoEASCMaep+tf+wBmEZI973x86GBx2JzHh4nWPW+IHkEQQkSOtgdSCcudA0KgbtP2YCrgjMANqG97MOUxJ+AOsrI9nNLYowQP9HuXyA4meICu7eGUBkjD9nBKY5ScD/h7F3oLJ3jgg+3hlAdITAi0PZgK+CI3IpB4tgdTBR7AnAnE8FfTYGgHlNBr2/YwDGC5sD2CP2TD4MRsR2wvHG/NPVADu5+eoSdNou2DdoeGnqgBjwBqZr1PEtv564ks2Y+bkSIJ8QotaJ9sQgA0YBam1Z1G9Qfqok0BCqo/5pxSP8fVH6iNIwL4UvkpKbMG7gyMSxtdCMig6kPegMeCAkCrbjHjJA9L5vKAsM2m6jNoggetPL3lcMEAVV2a14Q7ycC+UQ4BqiwOF+BGBIH/zIxKH00D4tA9R+7WkUUv5RcTh6jq73vroBtc7BpnBzPi0D42TByuK9zf8KfGxlIJXByWtx0uBJ8NDqYChlwclo3tDIk1ofEELg7LatwjCN9ndflMHG5K3TkngLzJ8uAoLQ53EO1ND6YCylqHDQyoNRmeha9y1iEEzqyG0VQAE4fwU/emmfN+Du8S4tClVgxyCf5pW4dHZMf+K8YCa1qHU2LIc2QYuuIwgJVtsHqgJw6ZQVvZuK8JWuKQ2S2nOgdTATrWYRsDvKx3OOWhbh0unbeO+XZUxeEa2XBKq+OIgKMgDidvZHZkQ81Z+lZmRya4sxTL9lPvvcyOTKiIwzczO7Ihd5Zys8N90WgqoC8Th+9ndmRCZh2+o9mRiWLr8D3Njkx0ipylewSvrxxMFRzzrcN3NTuyke8sZWbH6MWDeYbrbduX02g0vp5H5yJJxsUhyXKWMrPDQtpCAsOt30eEYoR41IUHXlDReFY54rALUfVgdVksB6cuwSiVwcu2JFTknfYzxeEBA8eW2TEYY4xABqBT9GllicMltWV2TC4IwywSYULIPP/OLHFoy+yYn0nmTMQo0tGFdZjSo4bEQAaEPuZXmj8VNyLf+fc/OUvHyEIi9jQgUhYMtCAvjolD2rr/acPsWPaUWPA1cs7fgHYo6dGyYHZsUfG6SAJ1c/ffRffnLtVfb3YsN1Q+/Dsgzo/XJtRe8GqzwwPqkxGCKCSPvtzsaBP5wB+B/skizy4BVD3Mvjq1qu4IR61v6gZIJJ7do4bZsRgT5FA8blcouQwc+aAzga9Fv8qE4o+q2eHT8LuGiHRn5abF3ekujeSUFCzjKYWKX1UnuVUyKruOvmK5AIpCIxsOqFxX2Ojih4dCh/Y0LZZltxINBtqvtDy3TywEEDlqrZRu+Y/qBkjGpRfnAeaq1oiM1eckqE5D/OSxzJxM1rhwh0FkrbhOemV3quefDHS1821fYiDwx6KW/EHC6WQM7APx1T+vec8psNUSoIG8emZaQooXgW2Y3wpUloM9yraaswCJ1CquvFU9/ygTY+tBgYbbXH0HRJ2EAC2wEjhORtb4ExAm3WN79Tgxy8nqsM9wwag8ERWpBZ7hryr9y5hSGIw2a5+htxldIeV+sLIfAOnk8/hn/Kt6BHfchYCVhW2uldDKFKNvCyfPW1H7bBgGumaGVzq/azoA9wlk5TWa33NrR5Zfcq6+WUHkMKDym40xoH9PPFRlB8T0szdrtVpt/xhU2zsN4Dlyp3YfpONBUpYuvO137wwYHaf6VloGzkNV2FDps8JBtrbERHPHH+8Qoc6rp4emfcsrFUWX+pks7nD59PQBeeX0kFTYoqVgd2BVT6CYns0Vk5esnlRYYiZf5vqZnQuv0e4Fda+eVOOnvZxH6ZjecjJn07NDtKbVkwxL9KXPRwXBGjUswtVjfnqcu4Iiv9hYcQNbPS2+uZmTPSjWfZdS5QoaT0BYmNvc4qyChXTbRXV1XolkT6XNLa6R9qQ8cN0xVjY9fHMjzNDVN69J5ENpSMUHLYiSmwTb3A7Hrq7nAfnh3W3pbfSlQdbF9gSoFpXwvp70HvLypj7TWVceuo9fc+hAOUtvoK+mweGNVQPfkXSTu0osZUVORmr2XSQW5FqitYz6laM2Jfxaufiw2JxPLT7m8Eu/5GLQYvNKV5nHQKqWoCpl8lWhYuQJHgd5/MRqEvdOPiNi/V6kPBylMFBdkFt54X61kV5XkAXzAsjVpjAZ6ioXgy9Sr0rzEN+9/PPLzCd+GeTflcPjIU35fkCslroH0hctzIqJnIcV9SqGPBRAv9hlnvw6ZJOGq/CeuTouX0Z2qzUUnLZCDH7Lt2er/V7kalOoJspjBnZ7g8/laqz4XkZyHjbVKxX1T7znMXAopRg7ufHg2rw+SjjIxaB/u9b9mm87/mkTAEyEayzFya56JfeCZL/nhbdqHPzeKGDzFHKyUSFwhy9X/2TjWw69QaN92Vit6JXvQ/hXVL9t5Grsm3arSENBHX/bNg9JKJiDtoeoBLlz7XcUuSpatcqYX3xfNfFUCbOLf5FLpqXcK6WnbhwIQj8mG2cCB2G55iY3jzTVjQ7TD4hJHt1kbC8XUykPR6+W3RIPubpbVIqZAUs8VlJ1V9MLosZjtr6sFb9XNR4KQT+9zUeNx44tXkXzUY2H3FzV9B6o8fiEyvu5Gg+p90pXDFriIVV3dXMULPE4yngoPCOFDB7ucD4fpv/FeWSlOC0n8+lDwn4GD/fLe9TBz1Iemik8jzy8E08/oISAU8KO+eRqXfApsLulobuznbgUrJOjfOTh9Xj3B0KClLLSu3Yht7Uxzsko17W60zwmn/fyGUT6cXxd8AjbUEAcvSmf3FJHULJ8Nc1jGtxC/xDDx6K3/4bz1fbw3TuOd+wZJPSKRKSwZoVciscgHaSH9DYln4n/hzO+6CYlgLOLX0WKRycVKy+qQ/xYupM5M7dn+82oy1j9fJXnERZZQEyRQ8LXSL7uPCAOIToFTMRcIIoRFlfe87mTPNb8gdAhDruQX19Um59GUzfVIsFjGQ59vGIrd7E6ibmJ2hLxdd5fDUJMebNOToyuvSVb6icx2u7yiceMK1HoX2vIS3TEOQG0tpBkggfPZ4QgXt1DHuOOejo+7rvcuobx+T1zMSPjRx6iMgvHTSFFuiSpKwZ25+GK15rYRXmHVEDcDB7iMAknvvRrxyeSNh548PzIRMODUBVBNXkP7jy4h4+kVhdXHnArgwcfYRwlXWzCZUX2aR4T8e/bLQMg9gUH1jQhdx79J1nHO7iH5mWax5Ik6htmYp1DcmtvFPPg78WJZM2kL+wNhCsnqMp5wGcbjN6O6Enz4BmDkbzdhq8Z7+LXHPPg6yF8cvMktl9IevW1o4h5NDPa54NsHtx4EKJl+ileswMS/GMebC8IldaDE81YnfHhmAcP2JGHRZjDg99D3Q93L14zSreeiXmAcJXPw5Jteq3XXZvm8TDvOTz4+qfN71AAkpP4drxFM4PHye0Lrg4Qu8Liq7ZMwvv6wM+Jlzk8WmI+Zo6oSg+FyPSH0lA2JHnAjfAbIieyiU8/lNTkJrzz2MEnJTOHB4+J4cEHE+jxx8KFA07z4AfKwo8GRvSyTDyvplbidx7MRHts1prDY0FE9K6T6DDBK+NCD0fMQ3x93kd3HH9LfJ+rK0p858GFdKqjipfHQzjLUx2WQnfUR4qHOHGu/5HYOvjZWNVLHGQ8RH0Cue+gs82dh9CN7jfxcleYrI/j+lYUl7zrJfyfOOEtEup0XTnDCR5b/jt0E+7yyz0zjmIeYmUn4nX8M0JBvLutuTCMamLuPET54r0djcv1TpWmylV5fBwdsZFeL53OntmbCR4iewjD4MwQLCNVluntc9dtTlviQPtb2DSht5+wEPWtafO/xdwXqn5tqbYpe7AvlAxe24nEaGIeH2uhrAq7VgjLAQn1JWbIU5GMG7/3pB21wcKO4heJJH0IXiA/OI6J7BW8T/D4uLecCtuzz1OVEPC+rlJ27Sll1zr/6tOvDsTBifjHAFDR1pJZtuxLZoY/jbYpNyCOAP4J10Fzf/MzQPYp3jcvgB1yj3+s/sV+Bof4tbFgX3qr0Wgl1aq5P+6PR5cWf3UNhthvMT20W/wfsaxcfAfiu9qdkjbFll2S/Hve67KLCDq337nlc7OpEnNQu+oPf/jDH/7whz/84e0xaEnQeYtURtd1h1/TqbdarbZsUN++P+sxnPsM4oINdYpRGOiqHd+gC7ghQCPwYFfYnCdqpwWjdhPSHFmLLfA/VJpzQVUemsF2s+jISztUeVgtOZCn6qvysFsCMjfHw+qJHfJcMlUednN95SU5yjysnulmkIfVc5LkOaMRD+PJc2bxn7RkLeIhL922doaKFg+FDiYv7/yRgDw3/HfwkJemqvPQzHIyC4PzYZWHbHTq67z2jkuF6Bqbj/8XHprFCYYxkhUXRTzkirFj9cxcczyQVR5jczysGrbSFivqPHybPNbmeKifa14DpA03lXlAqzykrT/UedhrgcWgqu8q8HhuBv06KL9muSFvtReLvKNMxENuONrsVbSSdzCJeCj0CLG3YS2lY9PhYe/s3L5Ca0sNHgDaaR8g76/CxxbmSyqsD56tY2GJLNWOUIr86ErzwT4tvcOoDGAA1fqlRkmZijx4Rdf2hQk5Xl/13IWo2EuVB699Ip/+4BXTMuxcVfukxol6C53DcSA/7aY7Wn+3Bp7AqqGDVlsBlw0giq1FxZBuWpP+QV4QoVvATgTr1IFUoNerOk5Tl3dwf2vQ26KVOxreGfeon9YCeTskis7kvZ3fF0nbSOOEnLdDSvP7vSs9HYOd/NoJeej7cTF1GOSL4fgPikD9J8XVAfgUEf+dX1ZGXfT2FxJxsvy1l193WlxOE5bjb1vrTk74VdotRBP8CEjHEelrBo6BfEK+78MYEWGlgPPeP3Qag8Gg05mtN1dE+HE4hn6B0ShoXTIysEYgovQ8G0yecyBcr9XTPm8lD8W9KNYVTxVGmJzbhZ08m4M1INWnhZ6KfoTZIhW2X+jQ41YlFWXyvZOf51xMQ1ooOVc7a/kZiAQN9XyaiZ9/SrgcKjVti2uZReI4a10/ykDhkO0cGmrN23ztbwvDQ5nUpumxDBOo3BLYA1qPx6B0z+RhT5sJAhodgS/qXjAHFhy4LMeip/5THFQveXUaqO3AqHpPoclInQmk2i9t25Wvd0iOJspI5wo/JaByIv0zOlDyeNw1FUz4Vjm/C6Gy+TodULDJQ5P1FIuz7DtGpEp2yPYzb0PBO7OO90bhlCDSq5gkObmgLNXOfHGL28/7jJnCczGR6rk6QZpW7RCoI/DZzty4EPnXMZZA7M0CSmOPPq0pDj19FMDMCAAXw1mey/lhf3V4xIPUl1e2oQkOmF5ndQW83a9Bo840WPZt8SgRpfA8W/3m/gBecLx8Nzwt+fo/ZjX7xEkxrhwAAAAASUVORK5CYII=",LA TELE
+http://redima.pro:8880/stalin2024/stalin2024/377
+#EXTINF:-1 group-title="CINE" tvg-logo="https://png.pngtree.com/png-clipart/20230812/original/pngtree-the-word-entertainment-show-card-picture-image_7880383.png",Entertairment HD
+http://redima.pro:8880/stalin2024/stalin2024/378
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Multipremier_logo.svg/1200px-Multipremier_logo.svg.png",MULTIPREMIER
+http://redima.pro:8880/stalin2024/stalin2024/379
+#EXTINF:-1 group-title="CINE" tvg-logo="https://w7.pngwing.com/pngs/219/763/png-transparent-animal-planet-hd-high-definition-television-logo-discovery-channel-brazil-samba-text-rectangle-logo.png",MULTIPREMIER
+http://redima.pro:8880/stalin2024/stalin2024/380
+#EXTINF:-1 group-title="CINE" tvg-logo="https://seeklogo.com/images/M/mc-graphic-design-logo-ACBAE984D6-seeklogo.com.png",MULTICINE
+http://redima.pro:8880/stalin2024/stalin2024/381
+#EXTINF:-1 group-title="CINE" tvg-logo="https://seeklogo.com/images/A/amc-logo-33DED15376-seeklogo.com.png",AMC
+http://redima.pro:8880/stalin2024/stalin2024/384
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX
+http://redima.pro:8880/stalin2024/stalin2024/385
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",HBO2 HD
+http://redima.pro:8880/stalin2024/stalin2024/386
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/es/BabyTV.es.png",││KIDS HD││INFANTIL BABY TV HD
+http://redima.pro:8880/stalin2024/stalin2024/389
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.babytv.com/app/uploads/2019/12/VideoIcon-round.png",BABY TV
+http://redima.pro:8880/stalin2024/stalin2024/390
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png",WARNER HD
+http://redima.pro:8880/stalin2024/stalin2024/391
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://static.epg.best/mx/NickJr.mx.png",││KIDS││ NICK JR HD
+http://redima.pro:8880/stalin2024/stalin2024/392
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://w7.pngwing.com/pngs/806/670/png-transparent-discovery-kids-discovery-channel-television-channel-tlc-axe-logo-miscellaneous-television-text.png",DISCOVERY KIDS HD
+http://redima.pro:8880/stalin2024/stalin2024/393
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://image.pngaaa.com/717/632717-middle.png",HOLA TV HD
+http://redima.pro:8880/stalin2024/stalin2024/396
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://c0.klipartz.com/pngpicture/351/801/gratis-png-cartoon-network-studios-logo-toonix-cartoon-network.png",CARTOON NETWORK HD
+http://redima.pro:8880/stalin2024/stalin2024/397
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS
+http://redima.pro:8880/stalin2024/stalin2024/398
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/125px-Discovery_Kids_Logo_2021-Presente.webp.png",DISCOVERY KIDS
+http://redima.pro:8880/stalin2024/stalin2024/399
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",PASIONES
+http://redima.pro:8880/stalin2024/stalin2024/401
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",PASIONES
+http://redima.pro:8880/stalin2024/stalin2024/402
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",TELENOVELAS
+http://redima.pro:8880/stalin2024/stalin2024/403
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png",TELENOVELAS
+http://redima.pro:8880/stalin2024/stalin2024/404
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/stalin2024/stalin2024/405
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/1200px-Las_Estrellas.svg.png",CANAL DE LAS ESTRELLAS
+http://redima.pro:8880/stalin2024/stalin2024/406
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://static1.squarespace.com/static/5510630ae4b0f48d896bc4a5/55122ef1e4b0dbee04c12c49/5a4fb77e0d9297d3c33a6bb4/1515173828374/1384365569092.jpeg?format=1500w",E!
+http://redima.pro:8880/stalin2024/stalin2024/409
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/09/Logo-DHE.png",DHE HD
+http://redima.pro:8880/stalin2024/stalin2024/410
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png",││CULT HD││ H2
+http://redima.pro:8880/stalin2024/stalin2024/411
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png",CINECANAL HD
+http://redima.pro:8880/stalin2024/stalin2024/413
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://static.epg.best/co/RCNNovelas.co.png",RCN NOVELA HD
+http://redima.pro:8880/stalin2024/stalin2024/414
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://static.epg.best/mx/TeleNovelas.mx.png",TLNOVELAS
+http://redima.pro:8880/stalin2024/stalin2024/415
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png",ANTENA 3
+http://redima.pro:8880/stalin2024/stalin2024/418
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/125px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png",CNN
+http://redima.pro:8880/stalin2024/stalin2024/419
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://www.caracolinternacional.com/static/media/CARACOLTV_LOGO_WEB.27d59d62.png",CARACOL INTERNACIONAL
+http://redima.pro:8880/stalin2024/stalin2024/423
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/125px-InvestigationDiscoveryLogo2020.svg.png",DISCOVERY ID
+http://redima.pro:8880/stalin2024/stalin2024/424
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL
+http://redima.pro:8880/stalin2024/stalin2024/426
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png",DISCOVERY CHANNEL
+http://redima.pro:8880/stalin2024/stalin2024/427
+#EXTINF:-1 group-title="VARIOS" tvg-logo="http://tvagro.tv/wp-content/uploads/2017/08/Logo180.png",TV AGRO
+http://redima.pro:8880/stalin2024/stalin2024/429
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+http://redima.pro:8880/stalin2024/stalin2024/430
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET
+http://redima.pro:8880/stalin2024/stalin2024/431
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",H&H DISCOVERY
+http://redima.pro:8880/stalin2024/stalin2024/434
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Discovery_H%26H.png/160px-Discovery_H%26H.png",H&H DISCOVERY
+http://redima.pro:8880/stalin2024/stalin2024/435
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",DISCOVERY WORLD
+http://redima.pro:8880/stalin2024/stalin2024/436
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NAT GEO
+http://redima.pro:8880/stalin2024/stalin2024/438
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png",NAT GEO
+http://redima.pro:8880/stalin2024/stalin2024/439
+#EXTINF:-1 group-title="VARIOS" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png",RUMBA TV
+http://redima.pro:8880/stalin2024/stalin2024/440
+#EXTINF:-1 group-title="VARIOS" tvg-logo="http://canalrumbatv.com/wp-content/uploads/2020/05/logortv.png",RUMBA TV
+http://redima.pro:8880/stalin2024/stalin2024/441
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1000px-FX_International_logo.svg.png",FX HD
+http://redima.pro:8880/stalin2024/stalin2024/442
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",RT
+http://redima.pro:8880/stalin2024/stalin2024/443
+#EXTINF:-1 group-title="CINE" tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/10/Universal.jpg",UNIVERSAL CINEMA HD
+http://redima.pro:8880/stalin2024/stalin2024/445
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/150px-TeleSUR-Logo.svg.png",TELESUR
+http://redima.pro:8880/stalin2024/stalin2024/446
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Star-TVE-logo.png",Star TVE HD
+http://redima.pro:8880/stalin2024/stalin2024/681
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s",UNIVERSAL CRIME HD
+http://redima.pro:8880/stalin2024/stalin2024/1033
+#EXTINF:-1 group-title="CINE" tvg-logo="https://logowik.com/content/uploads/images/studio-universal1896.logowik.com.webp",Studio Universal HD
+http://redima.pro:8880/stalin2024/stalin2024/1025
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://static.epg.best/ar/612DTS2.ar.png",DIRECTV SPORT + EC
+http://redima.pro:8880/stalin2024/stalin2024/685
+#EXTINF:-1 group-title="CINE" tvg-logo="https://e7.pngegg.com/pngimages/633/904/png-clipart-a-e-networks-television-channel-entertainment-television-show-hd-logo.png",A&E HD
+http://redima.pro:8880/stalin2024/stalin2024/1015
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png",ECUAVISA
+http://redima.pro:8880/stalin2024/stalin2024/447
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Logo_Ecuavisa.svg/1280px-Logo_Ecuavisa.svg.png",ECUAVISA 2
+http://redima.pro:8880/stalin2024/stalin2024/448
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS
+http://redima.pro:8880/stalin2024/stalin2024/449
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png",RTS 2
+http://redima.pro:8880/stalin2024/stalin2024/450
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",TELEAMAZONAS 1
+http://redima.pro:8880/stalin2024/stalin2024/451
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",TELEAMAZONAS 2
+http://redima.pro:8880/stalin2024/stalin2024/452
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png",TVC
+http://redima.pro:8880/stalin2024/stalin2024/453
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://seeklogo.com/images/T/tvc-ecuador-logo-DE265485AA-seeklogo.com.png",TVC 2
+http://redima.pro:8880/stalin2024/stalin2024/454
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png",ECUADOR TV
+http://redima.pro:8880/stalin2024/stalin2024/455
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png",ECUADOR TV
+http://redima.pro:8880/stalin2024/stalin2024/456
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png",ECUAVISA INTERNACIONAL
+http://redima.pro:8880/stalin2024/stalin2024/457
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png",ECUAVISA INTERNACIONAL
+http://redima.pro:8880/stalin2024/stalin2024/458
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png",RTU
+http://redima.pro:8880/stalin2024/stalin2024/459
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://canalrtu.tv/wp-content/uploads/2020/12/Canal-RTU-Ecuador-en-vivo-Online-2.png",RTU
+http://redima.pro:8880/stalin2024/stalin2024/460
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC
+http://redima.pro:8880/stalin2024/stalin2024/461
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png",TC 2
+http://redima.pro:8880/stalin2024/stalin2024/462
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",GAMA TV
+http://redima.pro:8880/stalin2024/stalin2024/463
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png",GAMA TV 2
+http://redima.pro:8880/stalin2024/stalin2024/464
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",OROMAR
+http://redima.pro:8880/stalin2024/stalin2024/465
+#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png",OROMAR
+http://redima.pro:8880/stalin2024/stalin2024/466
+#EXTINF:-1 group-title="ECUADOR",ONDA TV
+http://redima.pro:8880/stalin2024/stalin2024/554
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png",EVENTOS DEPORTIVOS
+http://redima.pro:8880/stalin2024/stalin2024/302
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://logodownload.org/wp-content/uploads/2021/09/fef-seleccion-ecuador-logo-0.png",DEPORTE 3
+http://redima.pro:8880/stalin2024/stalin2024/300
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",GOL TV ECU
+http://redima.pro:8880/stalin2024/stalin2024/569
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo.svg/1280px-GolTV_logo.svg.png",GOL TV
+http://redima.pro:8880/stalin2024/stalin2024/570
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN
+http://redima.pro:8880/stalin2024/stalin2024/571
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://static.epg.best/ar/ESPN3.ar.png",ESPN 3
+http://redima.pro:8880/stalin2024/stalin2024/573
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png",ESPN 4
+http://redima.pro:8880/stalin2024/stalin2024/574
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://static.epg.best/ar/612DTS2.ar.png",DIRECTV SPORTS 2
+http://redima.pro:8880/stalin2024/stalin2024/575
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://static.epg.best/co/DirectvSportsPlus.co.png",DIRECTV SPORT
+http://redima.pro:8880/stalin2024/stalin2024/576
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN
+http://redima.pro:8880/stalin2024/stalin2024/317
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png",ESPN 2
+http://redima.pro:8880/stalin2024/stalin2024/312
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://cnt-media.boxqos.com/consumer/canals/canal-del-futbol/logo/canal-del-futbol-logo.png",CANAL DEL FUTBOL
+http://redima.pro:8880/stalin2024/stalin2024/311
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png",ESPN 5
+http://redima.pro:8880/stalin2024/stalin2024/326
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://eadn-wc03-3367747.nxedge.io/wp-content/uploads/2020/03/ESPN-2-300x188.png",ESPN 2
+http://redima.pro:8880/stalin2024/stalin2024/328
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png",ESPN6
+http://redima.pro:8880/stalin2024/stalin2024/329
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png",ESPN 6
+http://redima.pro:8880/stalin2024/stalin2024/330
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png",Sony Movies HD
+http://redima.pro:8880/stalin2024/stalin2024/978
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/FILMANDARTS.png",Film & arts HD
+http://redima.pro:8880/stalin2024/stalin2024/1036
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.brandbucket.com/sites/default/files/logo_uploads/255208/large_universalreality.png",UNIVERSAL REALITY
+http://redima.pro:8880/stalin2024/stalin2024/1035
+#EXTINF:-1 group-title="CINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNotJoD64S9wCYFLpvay4iHjmL2WlMtZAehGmYUsHuTA&s",UNIVERSAL COMEDY
+http://redima.pro:8880/stalin2024/stalin2024/1032
+#EXTINF:-1 group-title="VARIOS",Comedy Central HD
+http://redima.pro:8880/stalin2024/stalin2024/994
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="http://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png",ESPN HD
+http://redima.pro:8880/stalin2024/stalin2024/1003
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1024px-ESPN_7_logo.svg.png",ESPN7
+http://redima.pro:8880/stalin2024/stalin2024/1005
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Canal_10_%28El_Salvador%29_2019.png/320px-Canal_10_%28El_Salvador%29_2019.png",Canal 10 - ESA
+http://redima.pro:8880/stalin2024/stalin2024/986
+#EXTINF:-1 group-title="CINE" tvg-logo="https://4.bp.blogspot.com/-ooVCWd-F68M/U0btGor7uMI/AAAAAAAAKIQ/HD9bKqP8UBU/s1600/CartoonHD-Check-it.jpg",CARTOON NT HD
+http://redima.pro:8880/stalin2024/stalin2024/984
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_Canal_10_de_Tucum%C3%A1n.png",Canal 10 HD - ESA
+http://redima.pro:8880/stalin2024/stalin2024/988
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/1200px-Canal_4_TCS.png",Canal 4 HD ESA
+http://redima.pro:8880/stalin2024/stalin2024/989
+#EXTINF:-1 group-title="CINE" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_6/large.gallery_1157_6_8916.png.1deb9faa7044f40e4370531dc92d7376.png",HBO Family HD
+http://redima.pro:8880/stalin2024/stalin2024/1011
+#EXTINF:-1 group-title="VARIOS" tvg-logo="https://w7.pngwing.com/pngs/363/541/png-transparent-telemundo-internacional-logo-wkaq-tv-others-television-blue-text.png",Telemundo HD
+http://redima.pro:8880/stalin2024/stalin2024/1042
+#EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png",UNIVERSAL PREMIERE
+http://redima.pro:8880/stalin2024/stalin2024/1034
+#EXTINF:-1 group-title="CINE" tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-este_m.png",HBO Plus HD
+http://redima.pro:8880/stalin2024/stalin2024/1039
+#EXTINF:-1 group-title="DEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TD_M%C3%A1s_2_Logo.svg/800px-TD_M%C3%A1s_2_Logo.svg.png",TD+2 HD CR
+http://redima.pro:8880/stalin2024/stalin2024/1026
