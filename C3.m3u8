@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1 group-title="NACIONAL",Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 group-title="NACIONAL",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 group-title="NACIONAL",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 group-title="NACIONAL",Canal 6 MX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
+#EXTINF:-1 group-title="NACIONAL",Milenio Television
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7401
+#EXTINF:-1 group-title="NACIONAL",Telediario Now
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=11014
+#EXTINF:-1 group-title="NACIONAL",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 group-title="NACIONAL",A Mas
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 group-title="NACIONAL",Teleformula
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+#EXTINF:-1 group-title="NACIONAL",MVS TV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
+#EXTINF:-1 group-title="NACIONAL",Canal Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/chunklist_b1431072.m3u8
+#EXTINF:-1 group-title="NACIONAL",Canal 14
+https://s5.mexside.net:1936/canal14/canal14/chunklist.m3u8
+#EXTINF:-1 group-title="NACIONAL",CANAL 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONAL",CANAL 22.2 MX Nuestro Cine
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+#EXTINF:-1 group-title="NACIONAL",TV UNAM
+https://s5.mexside.net:1936/tvunam/tvunam/playlist.m3u8
+#EXTINF:-1 group-title="NACIONAL",Radio y Television de Veracruz (RTV)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 group-title="NACIONAL",Mexiquense TV
+https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/media_w640179649_5533.m3u8
+#EXTINF:-1 group-title="NACIONAL",34 Noticias
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/chunklist_w75000309.m3u8
+#EXTINF:-1 group-title="NACIONAL",Mariavision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
+#EXTINF:-1 group-title="Drama",Pluto TV Series Latinas
+https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+#EXTINF:-1 group-title="NOTICIAS",El Financiero - Bloomberg TV
+https://d19vc4shchm9pr.cloudfront.net/out/v1/a67ad47be66f4c3ea4a14c8f22984fa7/index.m3u8
+#EXTINF:-1 group-title="NOTICIAS",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="NOTICIAS",Russia Today
+https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="NOTICIAS",France Español
+https://s5.mexside.net:1936/france24/france24/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Planeta TV
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistASTRAL
+#EXTINF:-1 group-title="ENTRETENIMIENTO",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",VTV HN
+https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 3 GT
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 3
+https://cloud2.streaminglivehd.com:1936/8048/8048/.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 7 - Televisiete
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",Canal 13 - Trecevisión
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
+#EXTINF:-1 group-title="ENTRETENIMIENTO",ATV Sur PE
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Internacional",Telemundo
+https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
+#EXTINF:-1 group-title="Internacional",Telemundo PR
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Internacional",Punto2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
+#EXTINF:-1 group-title="España",Clan
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+#EXTINF:-1 group-title="Internacional",Canal 6 CR
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Internacional",Canal 12 SV
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 group-title="Internacional",El trece AR
+https://livetrx01.vodgc.net/eltrecetv/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Sports",beIN Sport Xtra en Español
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8
+#EXTINF:-1 group-title="Sports",Claro Sports México
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 group-title="Sports",Azteca Deportes Premium
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=310a09e6-6fd5-11ef-b1af-be21e08b28a0
+#EXTINF:-1 group-title="Sports",Futbol Network
+https://live.relentlessinnovations.net:1936/futbolnetwork/futbolnetwork/playlist.m3u8
+#EXTINF:-1 group-title="Sports",Fubo Sport Network
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8
+#EXTINF:-1 group-title="Sports",Movistar Liga de Campeones
+http://881166186915246282.ofd0711.xyz:80/play/JC8L3TCSVE/GJrYUvREHSY/246282.ts
+#EXTINF:-1 group-title="Sports",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+#EXTINF:-1 group-title="Sports",AyM sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
+#EXTINF:-1 group-title="De Paga",Star Channel HD
+https://streamer1.nexgen.bz/STAR/index.m3u8
+#EXTINF:-1 group-title="De Paga",AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:-1 group-title="De Paga",HBO Latino
+http://pro.royal8080.com:8080/play/live.php?mac=00:1A:79:D5:04:54&stream=270276&extension=ts
+#EXTINF:-1 group-title="Movies",Free TV
+https://freetv.stream.olympusatmedia.com/index.m3u8
+#EXTINF:-1 group-title="Movies",Acción Mexicana
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
+#EXTINF:-1 group-title="DOCUMENTALES",Historias de Ultratumba
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?advertisingId=&appName=web&appVersion=5.9.0-d319fc922c093078327ce71efcf39fdca4eb465e&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.4409&deviceLon=-97.3463&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=c2849db8-1412-11eb-bde1-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Misterios
+https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Historia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9bbe753c-ef32-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Investiga
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.3-821b13a0793a76e7f033891cacff670b41f91509&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5270&deviceLon=-97.4387&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=e271eb73-ef8c-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Ciencia
+https://stitcher.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=afc4be5c-ad4f-11eb-a2fe-0242ac110002
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Animales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=20.5291&deviceLon=-97.4497&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=25518983-f45d-11ea-a685-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="DOCUMENTALES",Pluto TV Naturaleza
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=5.8.0-5affbc19e280429261fcae0d10325cee6410753b&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=42c29115-1329-41fb-9e30-5ea2929ecfe3&deviceLat=21.3563&deviceLon=-97.6896&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=f83fdf19-0d08-11eb-a6e3-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 group-title="Retro Music",Now 80s
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19196/index.m3u8
+#EXTINF:-1 group-title="Retro Music",MTV 80's
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/6977/index.m3u8
+#EXTINF:-1 group-title="Retro Music",MTV Classic
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19148/index.m3u8
+#EXTINF:-1 group-title="MUSIC",Mix Music Channel
+https://cdamix.streaming.ws/mixmusic/live/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC",MTV Live
+https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="MUSIC",Box Hits
+http://rhsbjv7k.tvclub.xyz/iptv/ESB8F2Z2HXXGE7/19175/index.m3u8
+#EXTINF:-1 group-title="MUSICA REGIONAL",RetroChannels
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="RADIO",Classic Rock
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=xAoXwfNRpzqfb4QF8JUB&custom_7=61aaa0cc784a2161d3caf7ff
+#EXTINF:-1 group-title="RADIO",OyeFM
+https://playerservices.streamtheworld.com/api/livestream-redirect/XEOYEFMAAC_SC?dist=onlineradiobox
+#EXTINF:-1 group-title="RADIO",Los 40 Principales Veracruz
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_VERAAC.aac
+#EXTINF:-1 group-title="RADIO",Pa la Banda Naranjos
+https://iannes.mi-radio.stream:5003/stream
+#EXTINF:-1 group-title="RADIO",RADIO USA
+https://n06.radiojar.com/6pz06e8nv4zuv
